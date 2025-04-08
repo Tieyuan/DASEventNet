@@ -9,6 +9,9 @@
 
 4. Porras et al. (2024) provided a DAS catalog for Stage 3 hydraulic stimulation, which could be found in the data folder or from the paper of Porras, J., Pecci, D., Bocchini, G. M., Gaviano, S., De Solda, M., Tuinstra, K., ... & Grigoli, F. (2024). A semblance-based microseismic event detector for DAS data. Geophysical Journal International, 236(3), 1716-1727.
 
+Please cite the below paper if you use DASEventNet for your research:
+Yu P.L., Zhu T., Marone, C., Elsworth, D., & Yu, M. (2024). DASEventNet: AI-based microseismic detection on distributed acoustic sensing data from the Utah FORGE well 16A (78)-32 hydraulic stimulation. Journal of Geophysical Research: Solid Earth, 129, e2024JB029102. https://doi.org/10.1029/2024JB029102
+
 ## Dependence Packages
 matplotlib, numpy, obspy, pandas, scipy, tensorflow
 
